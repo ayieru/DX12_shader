@@ -1,0 +1,31 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl desk_lamp_arm_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump desk_lamp_arm_01_nor_gl_4k.exr
+map_Kd desk_lamp_arm_01_diff_4k.dds
+map_Ns desk_lamp_arm_01_rough_4k.exr
+map_ARM desk_lamp_arm_01_arm_4k.dds
+refl desk_lamp_arm_01_metal_4k.exr
+
+newmtl desk_lamp_arm_01_light
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 10.000000 9.83789 6.49111
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump desk_lamp_arm_01_nor_gl_4k.exr
+map_Kd desk_lamp_arm_01_diff_4k.dds
+map_Ns desk_lamp_arm_01_rough_4k.exr
+refl desk_lamp_arm_01_metal_4k.exr

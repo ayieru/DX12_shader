@@ -1,0 +1,27 @@
+# Blender MTL File: 'Chandelier_01_4k.blend'
+# Material Count: 2
+
+newmtl basecolor_classic_chandelier_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Chandelier_01_nor_gl_4k.exr
+map_Kd Chandelier_01_diff_4k.dds
+map_Ns Chandelier_01_roughness_4k.dds
+map_ARM Chandelier_01_arm_4k.dds
+refl Chandelier_01_metallic_4k.exr
+
+newmtl lamps_classic_chandelier_1
+Ns 458.698360
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 10.000000 10.000000 10.000000
+Ni 1.450000
+d 1.000000
+illum 2

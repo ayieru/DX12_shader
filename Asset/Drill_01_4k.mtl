@@ -1,0 +1,19 @@
+# Blender MTL File: 'Drill_01_4k.blend'
+# Material Count: 1
+
+newmtl Drill_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Metallic 0.000000
+Roughness 0.500000
+Ke 5.000000 5.000000 10.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Drill_01_nor_gl_4k.exr
+map_Kd Drill_01_diff_4k.dds
+map_Ns Drill_01_roughness_4k.jpg
+map_ARM Drill_01_arm_4k.dds
+refl Drill_01_metallic_4k.exr
